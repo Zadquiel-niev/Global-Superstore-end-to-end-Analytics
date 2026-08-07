@@ -5,6 +5,12 @@
 ![Power Query M](https://img.shields.io/badge/Power_Query_M-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-005B94?style=for-the-badge&logo=microsoft&logoColor=white)
 
+https://github.com/user-attachments/assets/04f97ec8-d309-40e5-b89d-af5506eb4b9e
+
+<p align="center">
+  <b>▶️ Demo de la solución interactiva en Power BI</b>
+</p>
+
 ---
 
 ## 🚨 Resumen Ejecutivo y Diagnóstico Financiero
